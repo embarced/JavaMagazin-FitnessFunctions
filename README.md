@@ -1,0 +1,1 @@
+# JavaMagazin-FitnessFunction
